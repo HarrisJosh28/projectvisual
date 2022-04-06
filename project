@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>project</title>
+<body>
+
+</body>
+
+<var first name=joshua></var>
+
+<var lastname=harris></var>
+
+var fullname=fullname.concat(lastname)
+
+<var fullname="first name".concat(lastname)></var>
+
+
+</html>
